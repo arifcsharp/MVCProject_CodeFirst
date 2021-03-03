@@ -1,0 +1,1490 @@
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.pdb
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.exe
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.exe.config
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.rsp
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.exe
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.exe.config
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.rsp
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Console.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.exe
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.rsp
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Antlr3.Runtime.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Newtonsoft.Json.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Owin.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Helpers.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Mvc.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Optimization.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Razor.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\WebGrease.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Helpers.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Mvc.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Optimization.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Razor.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Newtonsoft.Json.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\MvcCodeFirst.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\csc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\csc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\csc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\csi.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\csi.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\csi.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Console.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\vbc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\vbc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Antlr3.Runtime.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Newtonsoft.Json.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.Helpers.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.Mvc.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.Optimization.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.WebPages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\WebGrease.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.Helpers.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.Mvc.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.Optimization.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.WebPages.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Newtonsoft.Json.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 01\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\MvcCodeFirst.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\csc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\csc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\csc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\csi.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\csi.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\csi.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Console.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\vbc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\vbc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Antlr3.Runtime.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Newtonsoft.Json.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.Helpers.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.Mvc.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.Optimization.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.WebPages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\WebGrease.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.Helpers.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.Mvc.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.Optimization.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.WebPages.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Newtonsoft.Json.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\AutoMapper.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\PagedList.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\AutoMapper.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\AutoMapper.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\PagedList.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\PagedList.Mvc.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\bin\PagedList.Mvc.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\MvcCodeFirst.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\csc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\csc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\csc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\csi.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\csi.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\csi.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Console.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\vbc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\vbc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Antlr3.Runtime.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\AutoMapper.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Newtonsoft.Json.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\PagedList.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\PagedList.Mvc.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.Helpers.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.Mvc.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.Optimization.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\WebGrease.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\AutoMapper.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\AutoMapper.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\PagedList.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\PagedList.Mvc.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.Helpers.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.Mvc.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.Optimization.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Newtonsoft.Json.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif04.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif05.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif06.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif07.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - 11PM15 - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\MvcCodeFirst.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\csc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\csc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\csc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\csi.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\csi.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\csi.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Console.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\vbc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\vbc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Antlr3.Runtime.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\AutoMapper.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Newtonsoft.Json.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\PagedList.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\PagedList.Mvc.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.Helpers.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.Mvc.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.Optimization.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\WebGrease.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\AutoMapper.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\AutoMapper.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\PagedList.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\PagedList.Mvc.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.Helpers.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.Mvc.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.Optimization.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Newtonsoft.Json.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif04.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif05.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif06.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif07.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.pdb
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.exe
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.exe.config
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.rsp
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.exe
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.exe.config
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.rsp
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Console.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.exe
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.exe.config
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.rsp
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Antlr3.Runtime.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Newtonsoft.Json.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Owin.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.Mvc.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Helpers.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Mvc.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Optimization.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Razor.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\WebGrease.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.pdb
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.Mvc.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Helpers.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Mvc.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Optimization.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Razor.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Newtonsoft.Json.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif01.resources
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif02.resources
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif04.resources
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif05.resources
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif06.resources
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif07.resources
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif09.resources
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+E:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif01.resources
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif02.resources
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif04.resources
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif05.resources
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif06.resources
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif07.resources
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif09.resources
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.pdb
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.exe
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.exe.config
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.rsp
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.exe
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.exe.config
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.rsp
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Console.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.exe
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.exe.config
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.rsp
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Antlr3.Runtime.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Newtonsoft.Json.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Owin.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.Mvc.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Helpers.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Mvc.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Optimization.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Razor.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\WebGrease.dll
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.pdb
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.Mvc.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Helpers.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Mvc.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Optimization.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Razor.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Newtonsoft.Json.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\MvcCodeFirst.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csi.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csi.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csi.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Console.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\vbc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\vbc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Antlr3.Runtime.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\AutoMapper.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Newtonsoft.Json.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\PagedList.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\PagedList.Mvc.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Helpers.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Mvc.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Optimization.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\WebGrease.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\AutoMapper.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\AutoMapper.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\PagedList.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\PagedList.Mvc.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Helpers.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Mvc.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Optimization.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Newtonsoft.Json.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif04.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif05.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif06.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif07.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif09.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Migration01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\MvcCodeFirst.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\MvcCodeFirst.pdb
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\csc.exe
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\csc.exe.config
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\csc.rsp
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\csi.exe
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\csi.exe.config
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\csi.rsp
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Console.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\vbc.exe
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\vbc.rsp
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Antlr3.Runtime.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\AutoMapper.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\EntityFramework.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Newtonsoft.Json.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Owin.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\PagedList.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\PagedList.Mvc.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.Helpers.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.Mvc.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.Optimization.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.Razor.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.WebPages.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\WebGrease.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\AutoMapper.pdb
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\AutoMapper.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\EntityFramework.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\PagedList.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\PagedList.Mvc.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.Helpers.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.Mvc.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.Optimization.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.Razor.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.WebPages.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Newtonsoft.Json.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif01.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif02.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif04.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif05.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif06.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif07.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif09.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Migration01.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst - Copy - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mig01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\MvcCodeFirst.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\csi.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Console.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\vbc.rsp
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Antlr3.Runtime.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Newtonsoft.Json.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Owin.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.Mvc.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Helpers.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Mvc.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Optimization.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\WebGrease.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.Mvc.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Helpers.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Mvc.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Optimization.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Newtonsoft.Json.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif04.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif05.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif06.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif07.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif09.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Migration01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mig01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.mg05.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mig01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.mg05.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\MvcCodeFirst.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\MvcCodeFirst.pdb
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csc.exe
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csc.exe.config
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csc.rsp
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csi.exe
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csi.exe.config
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\csi.rsp
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Console.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\vbc.exe
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\vbc.exe.config
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\vbc.rsp
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Antlr3.Runtime.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\AutoMapper.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\EntityFramework.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Newtonsoft.Json.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Owin.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\PagedList.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\PagedList.Mvc.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Helpers.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Mvc.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Optimization.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Razor.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\WebGrease.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\AutoMapper.pdb
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\AutoMapper.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\EntityFramework.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\PagedList.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\PagedList.Mvc.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Helpers.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Mvc.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Optimization.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.Razor.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Newtonsoft.Json.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif01.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif02.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif04.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif05.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif06.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif07.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif09.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Migration01.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mig01.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg01.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg02.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.mg05.resources
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+E:\All Project\1257095\MvcCodeFirst - Copy\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.iq01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif20.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif09.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Migration01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mig01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg02.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.mg05.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.iq01.resources
+C:\Users\arifb\Desktop\1257095\MvcCodeFirst - Copy (2)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif20.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.Mvc.dll
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.pdb
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\AutoMapper.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\bin\PagedList.Mvc.xml
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif01.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif02.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif04.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif05.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif06.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif07.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif09.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Migration01.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mig01.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg01.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg02.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.mg05.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.iq01.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif20.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.first.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.second.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.third.resources
+C:\Users\idb_c#.NH\Desktop\1257095\MvcCodeFirst\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\MvcCodeFirst.dll.config
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\MvcCodeFirst.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\MvcCodeFirst.pdb
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\csc.exe
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\csc.exe.config
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\csc.rsp
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\csi.exe
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\csi.exe.config
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\csi.rsp
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.AppContext.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Collections.Immutable.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Console.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.IO.Compression.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.IO.Pipes.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Security.AccessControl.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Security.Claims.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.ValueTuple.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Xml.XPath.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\vbc.exe
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\vbc.exe.config
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\vbc.rsp
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\roslyn\VBCSCompiler.exe.config
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Antlr3.Runtime.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\AutoMapper.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\EntityFramework.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\EntityFramework.SqlServer.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Newtonsoft.Json.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Owin.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\PagedList.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\PagedList.Mvc.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.Helpers.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.Mvc.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.Optimization.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.Razor.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.WebPages.Deployment.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.WebPages.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.WebPages.Razor.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\WebGrease.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\AutoMapper.pdb
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\AutoMapper.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\EntityFramework.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\EntityFramework.SqlServer.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\PagedList.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\PagedList.Mvc.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.Helpers.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.Mvc.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.Optimization.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.Razor.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.WebPages.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.WebPages.Deployment.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\System.Web.WebPages.Razor.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Newtonsoft.Json.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Antlr3.Runtime.pdb
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Core.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.Facebook.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.Cookies.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.Google.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.Twitter.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.Owin.Security.OAuth.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csprojAssemblyReference.cache
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.InitialCreate.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.my02.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif01.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif02.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif04.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif05.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif06.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif07.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif09.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Migration01.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mig01.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg01.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Mg02.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.mg05.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.iq01.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.first.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.Arif20.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.second.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.Migrations.third.resources
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.GenerateResource.cache
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CoreCompileInputs.cache
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.csproj.CopyComplete
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.dll
+E:\All Project\CodeFirstProject\MvcCodeFirst(Own)\MvcCodeFirst\obj\Debug\MvcCodeFirst.pdb

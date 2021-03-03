@@ -1,0 +1,66 @@
+﻿@model PagedList.IPagedList<MvcCodeFirst.Models.Product>
+@using PagedList.Mvc;
+    
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+
+<div>
+    @using (Html.BeginForm())
+    {
+        <p>
+            Find By Product Name: @Html.TextBox("searchString")
+            <input type="submit" value="Search" />
+        </p>
+    }
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.ActionLink("Name", "Index", new { sortOrder = ViewBag.NameSortParam })
+            </th>
+            
+            <th>OpeningDate</th>
+            <th>ImagePath</th>
+            <th>Action</th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OpeningDate)
+                </td>
+
+                <td><img src="@Url.Content(item.ImagePath)" height="70" width="65" /></td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ProductID }) |
+                    @*@Html.ActionLink("Details", "Details", new { id=item.ProductID }) |*@
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ProductID })
+                </td>
+            </tr>
+        }
+
+    </table>
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+   new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }
+   ));
+
+
+</div>
+
+

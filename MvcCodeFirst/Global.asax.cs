@@ -1,0 +1,36 @@
+﻿using AutoMapper;
+using MvcCodeFirst.Models;
+using MvcCodeFirst.ViewModels;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using System.Web.Optimization;
+using System.Web.Routing;
+
+namespace MvcCodeFirst
+{
+    public class MvcApplication : System.Web.HttpApplication
+    {
+        protected void Application_Start()
+        {
+            AreaRegistration.RegisterAllAreas();
+            FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
+            RouteConfig.RegisterRoutes(RouteTable.Routes);
+            BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            Mapper.Initialize(config =>
+            {
+                config.CreateMap<EmployeeVM, Employee>();
+
+                config.CreateMap<Employee, EmployeeVM>();
+
+
+                config.CreateMap<ProductVM, Product>();
+                config.CreateMap<Product, ProductVM>();
+            });
+
+        }
+    }
+}

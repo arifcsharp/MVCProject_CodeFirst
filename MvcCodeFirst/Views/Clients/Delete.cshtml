@@ -1,0 +1,39 @@
+﻿@using MvcCodeFirst.Helpers
+@model MvcCodeFirst.Models.Client
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+<div class="modal-header">
+    <h5 class="modal-title" id="deleteItemModalLabel">Delete product</h5>
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+<div class="modal-body">
+    <div class="card">
+        @Html.ImageFor(model => model.Image, "", 200, 200)
+        <div class="card-body">
+            <h5 class="card-title">@Html.DisplayFor(model => model.Name)</h5>
+            <p class="card-text">
+                @Html.DisplayNameFor(model => model.AccountType.Name):&nbsp;@Html.DisplayFor(model => model.AccountType.Name)
+                <br />
+                @Html.DisplayNameFor(model => model.Address):&nbsp;@Html.DisplayFor(model => model.Address)
+                <br />
+                @Html.DisplayNameFor(model => model.IssueDate):&nbsp;@Html.DisplayFor(model => model.IssueDate)
+                <br />
+                @Html.DisplayNameFor(model => model.Amount):&nbsp;@Html.DisplayFor(model => model.Amount)
+            </p>
+        </div>
+    </div>
+</div>
+<div class="modal-footer">
+    @using (Ajax.BeginForm(actionName: "Delete", controllerName: "Clients", null, ajaxOptions: new AjaxOptions() { HttpMethod = "POST", OnSuccess = "", OnFailure = "" }))
+    {
+        @Html.AntiForgeryToken()
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <input type="submit" class="btn btn-primary" value="Delete" />
+    }
+</div>
